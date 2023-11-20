@@ -49,7 +49,3 @@ document.addEventListener( "keydown", (e) => {
         inputBox.value = "";
     }
 })
-
-
-
-
